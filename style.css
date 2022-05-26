@@ -257,7 +257,7 @@ footer a {
 
 @keyframes arrowHover {
     50% {
-        transform: translate(10px);
+        transform: translate(0, 10px);
     }
 }
 
